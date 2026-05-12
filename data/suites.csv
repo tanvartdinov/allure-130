@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Здесь может быть описание","973","Успешная авторизация для старых устройств","tests","2026-05-12","passed","2026-05-12","TestLoginPassword","test_login","",""
+"Здесь может быть описание","981","Неуспешная авторизация для старых устройств","tests","2026-05-12","passed","2026-05-12","TestLoginPassword","test_login","",""
+"Здесь может быть описание","968","Неуспешная авторизация для новых устройств","tests","2026-05-12","passed","2026-05-12","TestLoginPassword","test_login","",""
+"Здесь может быть описание","972","Успешная авторизация для новых устройств","tests","2026-05-12","passed","2026-05-12","TestLoginPassword","test_login","",""
